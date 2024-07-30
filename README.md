@@ -9,7 +9,7 @@ View movie and TV show details
 Responsive design using TailwindCSS
 Firebase Firestore for storing user data and favorite lists
 
-* Technologies Used
+Technologies Used
 Frontend:
 React
 TailwindCSS
